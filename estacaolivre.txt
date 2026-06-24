@@ -1,5 +1,5 @@
 {
-  "stream_url": "LINK DE STREMING AQUI ,
+  "stream_url": "https://stm1.brsrv.xyz:6694/stream" ,
   "app_name": "Rádio Estação Livre",
   "logo_url": " LINK DO LOGOTIPO AQUI",
   "background_url": "LINK DO FUNDO AQUI",
