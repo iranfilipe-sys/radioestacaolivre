@@ -1,7 +1,7 @@
 {
   "stream_url": "https://stm1.brsrv.xyz:6694/stream" ,
   "app_name": "Rádio Estação Livre",
-  "logo_url": " LINK DO LOGOTIPO AQUI",
+  "logo_url": "https://i.ibb.co/qMYRPpvY/logo-aplicativo-oficial.png",
   "background_url": "https://i.ibb.co/JjSVMNT8/b308fda3-4746-4038-a02c-7150531fb3a0.jpg",
   "bg_tint_color": "#00254d",
   "bg_tint_opacity": 0.75,
